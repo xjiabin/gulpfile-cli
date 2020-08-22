@@ -1,6 +1,6 @@
 {
   "name": "gulpfile-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gulpfile workflow",
   "main": "lib/index.js",
   "bin": "bin/gulpfile-cli.js",
